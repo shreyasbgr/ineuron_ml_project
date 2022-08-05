@@ -18,6 +18,11 @@ docker ps
 docker stop <container-id>
 ```
 
+Install ipykernel
+```
+pip install ipykernel
+```
+
 VSCode Workspace settings.json file:
 ```
 {
